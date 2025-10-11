@@ -1,0 +1,19 @@
+app:
+  name: "ComfyUI Flux WAN Automation"
+  version: "1.0.0"
+server:
+  host: "0.0.0.0"
+  port: 8188
+paths:
+  comfyui: "/workspace/ComfyUI"
+  models: "/workspace/comfy-flux-wan-automation/models"
+  output: "/workspace/ComfyUI/output"
+models:
+  flux:
+    dev: "flux1-dev.safetensors"
+    schnell: "flux1-schnell.safetensors"
+  vae:
+    flux: "ae.safetensors"
+  clip:
+    t5: "t5xxl_fp16.safetensors"
+    clip_l: "clip_l.safetensors"
