@@ -1,0 +1,14 @@
+{
+  "original_prompt": "professional portrait of elegant woman, studio lighting",
+  "optimized_prompt": "professional portrait of elegant woman, studio lighting, influencer style, modern photography, 8K resolution, aesthetic, masterpiece",
+  "negative_prompt": "blurry, low quality, distorted, amateur, bad anatomy, deformed, ugly, pixelated, watermark, text, signature",
+  "lora_used": null,
+  "lora_file": null,
+  "trigger_words": [],
+  "timestamp": 1760176558,
+  "generation_settings": {
+    "steps": 30,
+    "cfg": 7.5,
+    "resolution": "1024x1024"
+  }
+}

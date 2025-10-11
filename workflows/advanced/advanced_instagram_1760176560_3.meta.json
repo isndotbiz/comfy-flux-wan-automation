@@ -1,0 +1,14 @@
+{
+  "original_prompt": "casual lifestyle photo of attractive girl, golden hour",
+  "optimized_prompt": "casual lifestyle photo of attractive girl, golden hour, instagram style, social media ready, hyperdetailed, trendy, beautiful lighting",
+  "negative_prompt": "blurry, low quality, distorted, amateur, bad anatomy, deformed, ugly, pixelated, watermark, text, signature",
+  "lora_used": null,
+  "lora_file": null,
+  "trigger_words": [],
+  "timestamp": 1760176560,
+  "generation_settings": {
+    "steps": 30,
+    "cfg": 7.5,
+    "resolution": "1024x1024"
+  }
+}

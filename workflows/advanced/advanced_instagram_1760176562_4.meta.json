@@ -1,0 +1,14 @@
+{
+  "original_prompt": "fashion portrait of stylish woman, modern aesthetic",
+  "optimized_prompt": "fashion portrait of stylish woman, modern aesthetic, masterpiece, high quality, award winning photography, instagram style, influencer style",
+  "negative_prompt": "blurry, low quality, distorted, amateur, bad anatomy, deformed, ugly, pixelated, watermark, text, signature",
+  "lora_used": null,
+  "lora_file": null,
+  "trigger_words": [],
+  "timestamp": 1760176562,
+  "generation_settings": {
+    "steps": 30,
+    "cfg": 7.5,
+    "resolution": "1024x1024"
+  }
+}

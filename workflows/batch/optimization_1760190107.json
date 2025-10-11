@@ -1,0 +1,14 @@
+{
+  "original_prompt": "stunning female model with perfect skin and professional photography",
+  "optimization_data": {
+    "optimized_prompt": "stunning female model with perfect skin and professional photography, professional photography, high quality, detailed, sharp focus, perfect lighting, cinematic composition, 8k resolution, masterpiece",
+    "negative_prompt": "blurry, low quality, distorted, amateur, bad lighting, pixelated, ugly, deformed, watermark",
+    "style_notes": "Fallback enhancement with proven keywords",
+    "recommended_settings": {
+      "steps": 25,
+      "cfg": 7.5,
+      "sampler": "euler"
+    }
+  },
+  "timestamp": 1760190107
+}
