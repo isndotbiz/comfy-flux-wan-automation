@@ -1,4 +1,5 @@
 #!/bin/bash
+[ -f ~/Workspaces/secrets.env ] && source ~/Workspaces/secrets.env
 # ComfyUI Control Script
 PID_FILE=/tmp/comfyui.pid
 
