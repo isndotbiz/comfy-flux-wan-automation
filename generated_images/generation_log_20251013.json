@@ -1,0 +1,162 @@
+{
+  "generations": [
+    {
+      "status": "success",
+      "image_url": "https://v3b.fal.media/files/b/penguin/5K5Jayp4zGJwGZ6FjvJF6.jpg",
+      "local_path": "generated_images/business_woman_test.jpg",
+      "generation_time": 1.7956910133361816,
+      "cost_estimate": {
+        "cost_per_image_usd": 0.03571428571428572,
+        "total_cost_usd": 0.03571428571428572,
+        "model": "dev",
+        "steps": 20,
+        "images": 1,
+        "includes_lora": false,
+        "rationale": "Base $0.05 \u00d7 1.0(LoRA) \u00d7 0.7(steps) \u00d7 1(images)"
+      },
+      "model": "flux-dev",
+      "args_used": {
+        "prompt": "professional portrait of a confident businesswoman, soft lighting, modern office background",
+        "image_size": "square_hd",
+        "num_inference_steps": 20,
+        "enable_safety_checker": true
+      },
+      "loras_used": [],
+      "metadata": {
+        "prompt": "professional portrait of a confident businesswoman, soft lighting, modern office background",
+        "negative_prompt": "",
+        "steps": 20,
+        "seed": null,
+        "timestamp": "2025-10-13T15:43:10.810272",
+        "provider": "fal.ai"
+      }
+    },
+    {
+      "status": "success",
+      "image_url": "https://v3b.fal.media/files/b/penguin/fRJ1TbZNBxapnSj892dKc.jpg",
+      "local_path": "generated_images/business_woman_lora_test.jpg",
+      "generation_time": 2.1403050422668457,
+      "cost_estimate": {
+        "cost_per_image_usd": 0.04910714285714286,
+        "total_cost_usd": 0.04910714285714286,
+        "model": "dev",
+        "steps": 25,
+        "images": 1,
+        "includes_lora": true,
+        "rationale": "Base $0.05 \u00d7 1.1(LoRA) \u00d7 0.9(steps) \u00d7 1(images)"
+      },
+      "model": "flux-dev",
+      "args_used": {
+        "prompt": "professional portrait of a confident businesswoman, soft lighting, modern office background, realistic skin texture",
+        "image_size": "square_hd",
+        "num_inference_steps": 25,
+        "enable_safety_checker": true,
+        "loras": [
+          {
+            "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realistic_skin.safetensors/resolve/main",
+            "weight": 0.8
+          }
+        ]
+      },
+      "loras_used": [
+        {
+          "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realistic_skin.safetensors/resolve/main",
+          "weight": 0.8
+        }
+      ],
+      "metadata": {
+        "prompt": "professional portrait of a confident businesswoman, soft lighting, modern office background, realistic skin texture",
+        "negative_prompt": "",
+        "steps": 25,
+        "seed": null,
+        "timestamp": "2025-10-13T15:43:21.939599",
+        "provider": "fal.ai"
+      }
+    },
+    {
+      "status": "success",
+      "image_url": "https://v3b.fal.media/files/b/tiger/vswk4ag0Tg7prsySKfdpR.jpg",
+      "local_path": "generated_images/supermodel_fashion_demo.jpg",
+      "generation_time": 1.8964910507202148,
+      "cost_estimate": {
+        "cost_per_image_usd": 0.05500000000000001,
+        "total_cost_usd": 0.05500000000000001,
+        "model": "dev",
+        "steps": 28,
+        "images": 1,
+        "includes_lora": true,
+        "rationale": "Base $0.05 \u00d7 1.1(LoRA) \u00d7 1.0(steps) \u00d7 1(images)"
+      },
+      "model": "flux-dev",
+      "args_used": {
+        "prompt": "stunning supermodel, fashion portrait with elegant pose and luxury styling, golden hour lighting, Instagram aesthetic, professional fashion photography, flawless makeup, confident gaze, detailed facial features, high quality, commercial photography",
+        "image_size": "portrait_4_3",
+        "num_inference_steps": 28,
+        "enable_safety_checker": true,
+        "negative_prompt": "amateur photography, low quality, blurry, distorted, bad lighting, unprofessional",
+        "loras": [
+          {
+            "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realistic_skin.safetensors/resolve/main",
+            "weight": 0.8
+          }
+        ]
+      },
+      "loras_used": [
+        {
+          "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realistic_skin.safetensors/resolve/main",
+          "weight": 0.8
+        }
+      ],
+      "metadata": {
+        "prompt": "stunning supermodel, fashion portrait with elegant pose and luxury styling, golden hour lighting, Instagram aesthetic, professional fashion photography, flawless makeup, confident gaze, detailed facial features, high quality, commercial photography",
+        "negative_prompt": "amateur photography, low quality, blurry, distorted, bad lighting, unprofessional",
+        "steps": 28,
+        "seed": null,
+        "timestamp": "2025-10-13T16:10:40.830082",
+        "provider": "fal.ai"
+      }
+    },
+    {
+      "status": "success",
+      "image_url": "https://v3b.fal.media/files/b/lion/KItHmdrZDqQyUFxNcDF8E.jpg",
+      "local_path": "generated_images/supermodel_instagram_lifestyle.jpg",
+      "generation_time": 1.6978352069854736,
+      "cost_estimate": {
+        "cost_per_image_usd": 0.04910714285714286,
+        "total_cost_usd": 0.04910714285714286,
+        "model": "dev",
+        "steps": 25,
+        "images": 1,
+        "includes_lora": true,
+        "rationale": "Base $0.05 \u00d7 1.1(LoRA) \u00d7 0.9(steps) \u00d7 1(images)"
+      },
+      "model": "flux-dev",
+      "args_used": {
+        "prompt": "gorgeous supermodel, Instagram lifestyle photography, natural golden hour lighting, casual luxury fashion, candid pose, authentic expression, lifestyle blogger aesthetic, professional photography, detailed skin texture, flawless makeup, contemporary fashion",
+        "image_size": "portrait_4_3",
+        "num_inference_steps": 25,
+        "enable_safety_checker": true,
+        "loras": [
+          {
+            "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realism.safetensors/resolve/main",
+            "weight": 0.8
+          }
+        ]
+      },
+      "loras_used": [
+        {
+          "url": "https://huggingface.co/XLabs-AI/flux-lora-collection/realism.safetensors/resolve/main",
+          "weight": 0.8
+        }
+      ],
+      "metadata": {
+        "prompt": "gorgeous supermodel, Instagram lifestyle photography, natural golden hour lighting, casual luxury fashion, candid pose, authentic expression, lifestyle blogger aesthetic, professional photography, detailed skin texture, flawless makeup, contemporary fashion",
+        "negative_prompt": "",
+        "steps": 25,
+        "seed": null,
+        "timestamp": "2025-10-13T16:10:54.845875",
+        "provider": "fal.ai"
+      }
+    }
+  ]
+}
