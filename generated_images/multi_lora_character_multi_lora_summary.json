@@ -1,0 +1,137 @@
+{
+  "multi_lora_generation": {
+    "timestamp": "2025-10-13T17:25:33.851080",
+    "character_seed": 12345,
+    "loras_per_image": 4,
+    "loras_used": [
+      "civitai:1309391@1477672",
+      "hf:XLabs-AI/flux-lora-collection/realism.safetensors",
+      "hf:XLabs-AI/flux-lora-collection/realistic_skin.safetensors",
+      "url:https://huggingface.co/ostris/ikea-instructions-lora-flux/resolve/main/ikea_instructions_lora_flux.safetensors"
+    ],
+    "lora_triggers": "fbphotos, photorealistic, high quality skin detail",
+    "total_requested": 10,
+    "successful": 10,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "total_cost_estimate": 0.55,
+    "enhancement_note": "Each image uses 4 LoRAs for enhanced quality, realism, and style"
+  },
+  "enhanced_images": [
+    {
+      "image_number": 1,
+      "pose_description": "standing confidently with hand on hip, flirty smile, full body shot",
+      "style_description": "casual chic summer outfit",
+      "filename": "multi_lora_character_01_4loras.jpg",
+      "generation_time": 1.8949120044708252,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 2,
+      "pose_description": "sitting elegantly with legs crossed, leaning forward playfully",
+      "style_description": "elegant business casual attire",
+      "filename": "multi_lora_character_02_4loras.jpg",
+      "generation_time": 1.8218622207641602,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 3,
+      "pose_description": "walking pose mid-step, looking back with sweet smile",
+      "style_description": "trendy streetwear fashion",
+      "filename": "multi_lora_character_03_4loras.jpg",
+      "generation_time": 1.5684850215911865,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 4,
+      "pose_description": "leaning against wall casually, hand through hair, confident pose",
+      "style_description": "flowy bohemian dress style",
+      "filename": "multi_lora_character_04_4loras.jpg",
+      "generation_time": 1.6525959968566895,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 5,
+      "pose_description": "standing sideways looking over shoulder with flirty glance",
+      "style_description": "sporty athletic wear look",
+      "filename": "multi_lora_character_05_4loras.jpg",
+      "generation_time": 1.5841951370239258,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 6,
+      "pose_description": "sitting on chair edge, swinging legs, cute and playful",
+      "style_description": "sophisticated evening casual",
+      "filename": "multi_lora_character_06_4loras.jpg",
+      "generation_time": 1.7434561252593994,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 7,
+      "pose_description": "dancing pose with arms gracefully positioned, joyful expression",
+      "style_description": "cute vintage inspired outfit",
+      "filename": "multi_lora_character_07_4loras.jpg",
+      "generation_time": 1.7528300285339355,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 8,
+      "pose_description": "casual standing with hands in pockets, natural sweet smile",
+      "style_description": "modern minimalist fashion",
+      "filename": "multi_lora_character_08_4loras.jpg",
+      "generation_time": 1.5659480094909668,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 9,
+      "pose_description": "sitting cross-legged on floor, hands on knees, relaxed vibe",
+      "style_description": "cozy sweater and jeans style",
+      "filename": "multi_lora_character_09_4loras.jpg",
+      "generation_time": 1.7168221473693848,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    },
+    {
+      "image_number": 10,
+      "pose_description": "fashion model pose showing off outfit, confident stance",
+      "style_description": "stylish urban contemporary look",
+      "filename": "multi_lora_character_10_4loras.jpg",
+      "generation_time": 1.7153980731964111,
+      "cost": 0.05500000000000001,
+      "loras_count": 4,
+      "status": "success"
+    }
+  ],
+  "lora_details": {
+    "combination_used": [
+      "civitai:1309391@1477672",
+      "hf:XLabs-AI/flux-lora-collection/realism.safetensors",
+      "hf:XLabs-AI/flux-lora-collection/realistic_skin.safetensors",
+      "url:https://huggingface.co/ostris/ikea-instructions-lora-flux/resolve/main/ikea_instructions_lora_flux.safetensors"
+    ],
+    "trigger_words": "fbphotos, photorealistic, high quality skin detail",
+    "enhancement_types": [
+      "Photorealistic quality",
+      "Enhanced skin detail",
+      "Instagram aesthetic",
+      "Professional lighting response"
+    ]
+  }
+}

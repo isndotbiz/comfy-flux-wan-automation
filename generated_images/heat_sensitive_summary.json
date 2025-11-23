@@ -1,0 +1,65 @@
+{
+  "heat_sensitive_character": {
+    "timestamp": "2025-10-13T18:10:28.276076",
+    "character_description": "European-Brazilian mixed ethnicity woman, late 20s, medium bust,\n        olive-toned skin with warm golden undertones, dark brown wavy hair with caramel highlights,\n        hazel-green eyes with thick defined eyebrows, full naturally pink lips,\n        defined high cheekbones and strong jawline, athletic but feminine build,\n        consistent facial features across all images",
+    "character_seed": 12345,
+    "ethnicity": "European-Brazilian mixed",
+    "age": "Late 20s",
+    "special_requirements": "Heat-sensitive with OCD about moisture/sweating",
+    "clothing_focus": "Breathable, loose, natural fabrics",
+    "total_requested": 5,
+    "successful": 5,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "total_cost": 0.275
+  },
+  "character_consistency": {
+    "seed_used": 12345,
+    "facial_features": "Hazel-green eyes, full pink lips, defined cheekbones",
+    "hair": "Dark brown wavy with caramel highlights",
+    "skin": "Olive-toned with warm golden undertones",
+    "build": "Athletic but feminine, medium bust"
+  },
+  "generated_images": [
+    {
+      "image_number": 1,
+      "pose": "standing confidently with arms slightly away from body for air circulation, natural cooling pose",
+      "outfit": "lightweight cotton tank top in pale blue and loose linen shorts in cream",
+      "filename": "heat_sensitive_01_heat_sensitive.jpg",
+      "generation_time": 1.8888928890228271,
+      "cost": 0.05500000000000001
+    },
+    {
+      "image_number": 2,
+      "pose": "sitting with legs uncrossed and leaning back slightly, allowing airflow around body",
+      "outfit": "breathable bamboo fabric sleeveless dress in soft sage green",
+      "filename": "heat_sensitive_02_heat_sensitive.jpg",
+      "generation_time": 1.5926079750061035,
+      "cost": 0.05500000000000001
+    },
+    {
+      "image_number": 3,
+      "pose": "walking with loose flowing movement, preventing fabric from clinging to skin",
+      "outfit": "loose-fitting modal blend crop top in white and airy palazzo pants in light gray",
+      "filename": "heat_sensitive_03_heat_sensitive.jpg",
+      "generation_time": 1.7938029766082764,
+      "cost": 0.05500000000000001
+    },
+    {
+      "image_number": 4,
+      "pose": "adjusting lightweight sleeveless top for better ventilation, comfortable gesture",
+      "outfit": "moisture-wicking athletic tank in mint and loose mesh running shorts",
+      "filename": "heat_sensitive_04_heat_sensitive.jpg",
+      "generation_time": 1.6830990314483643,
+      "cost": 0.05500000000000001
+    },
+    {
+      "image_number": 5,
+      "pose": "stretching arms above head naturally, airing out underarms discreetly",
+      "outfit": "unbuttoned linen shirt in natural beige over thin cotton camisole",
+      "filename": "heat_sensitive_05_heat_sensitive.jpg",
+      "generation_time": 1.5836739540100098,
+      "cost": 0.05500000000000001
+    }
+  ]
+}

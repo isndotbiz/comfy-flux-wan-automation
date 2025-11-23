@@ -1,0 +1,90 @@
+{
+  "generation_summary": {
+    "timestamp": "2025-10-13T17:19:52.304248",
+    "character_seed": 12345,
+    "lora_used": "civitai:1309391@1477672",
+    "total_requested": 10,
+    "successful": 10,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "total_cost_estimate": 0.49107142857142855
+  },
+  "poses_generated": [
+    {
+      "pose_number": 1,
+      "pose_description": "standing confidently with hand on hip, flirty smile, full body shot",
+      "filename": "instagram_character_01.jpg",
+      "generation_time": 1.927088975906372,
+      "status": "success"
+    },
+    {
+      "pose_number": 2,
+      "pose_description": "standing with arms crossed playfully, cute wink, full body pose",
+      "filename": "instagram_character_02.jpg",
+      "generation_time": 1.5999321937561035,
+      "status": "success"
+    },
+    {
+      "pose_number": 3,
+      "pose_description": "standing with one leg crossed, hand through hair, whole body visible",
+      "filename": "instagram_character_03.jpg",
+      "generation_time": 1.4705479145050049,
+      "status": "success"
+    },
+    {
+      "pose_number": 4,
+      "pose_description": "standing pose with hands behind back, sweet smile, full body shot",
+      "filename": "instagram_character_04.jpg",
+      "generation_time": 1.4159681797027588,
+      "status": "success"
+    },
+    {
+      "pose_number": 5,
+      "pose_description": "standing sideways looking over shoulder, flirty glance, full body",
+      "filename": "instagram_character_05.jpg",
+      "generation_time": 1.4034450054168701,
+      "status": "success"
+    },
+    {
+      "pose_number": 6,
+      "pose_description": "sitting on chair with legs crossed, leaning forward playfully, full body",
+      "filename": "instagram_character_06.jpg",
+      "generation_time": 1.466088056564331,
+      "status": "success"
+    },
+    {
+      "pose_number": 7,
+      "pose_description": "sitting on edge of surface, swinging legs, cute pose, whole body",
+      "filename": "instagram_character_07.jpg",
+      "generation_time": 1.546119213104248,
+      "status": "success"
+    },
+    {
+      "pose_number": 8,
+      "pose_description": "sitting cross-legged on floor, hands on knees, full body shot",
+      "filename": "instagram_character_08.jpg",
+      "generation_time": 1.5304889678955078,
+      "status": "success"
+    },
+    {
+      "pose_number": 9,
+      "pose_description": "sitting with one leg up, arms around knee, full body pose",
+      "filename": "instagram_character_09.jpg",
+      "generation_time": 1.595858097076416,
+      "status": "success"
+    },
+    {
+      "pose_number": 10,
+      "pose_description": "sitting sideways on chair, looking back with smile, whole body",
+      "filename": "instagram_character_10.jpg",
+      "generation_time": 1.4294860363006592,
+      "status": "success"
+    }
+  ],
+  "character_details": {
+    "seed_used": 12345,
+    "lora_reference": "civitai:1309391@1477672",
+    "lora_trigger": "fbphotos",
+    "consistency_note": "Same seed ensures same character across all poses"
+  }
+}

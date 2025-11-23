@@ -1,4 +1,5 @@
 #!/bin/bash
+[ -f ~/Workspaces/secrets.env ] && source ~/Workspaces/secrets.env
 # LoRA Manager for CivitAI
 LORA_DIR="/workspace/ComfyUI/models/loras"
 
